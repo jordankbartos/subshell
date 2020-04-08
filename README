@@ -1,0 +1,5 @@
+To compile smallsh:
+  make
+
+Alternatively:
+  gcc -o smallsh smallsh.c
